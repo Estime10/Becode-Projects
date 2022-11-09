@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "modern JS",
+			"group": "clean",
+			"problemMatcher": [],
+			"label": "npm: install - modern JS",
+			"detail": "install dependencies from package"
+		}
+	]
+}
